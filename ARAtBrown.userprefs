@@ -1,9 +1,10 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\DataFiles\Scripts\ChangScenes.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\DataFiles\Scripts\BackHome.cs">
     <Files>
       <File FileName="Assets\DataFiles\Scripts\RotateObject.cs" Line="1" Column="1" />
-      <File FileName="Assets\DataFiles\Scripts\ChangScenes.cs" Line="6" Column="19" />
+      <File FileName="Assets\DataFiles\Scripts\ChangScenes.cs" Line="1" Column="1" />
+      <File FileName="Assets\DataFiles\Scripts\BackHome.cs" Line="9" Column="9" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
